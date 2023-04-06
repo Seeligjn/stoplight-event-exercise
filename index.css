@@ -9,7 +9,7 @@ body {
 .button {
   background-color: gray;
   border-radius: 15px;
-  color: white;
+  color: rgb(255, 255, 255);
   cursor: pointer;
   font-size: 2em;
   font-weight: bold;
@@ -19,7 +19,7 @@ body {
 }
 
 #traffic-light {
-  background-color: #ababab;
+  background-color: #f3b60c;
   border-radius: 40px;
   margin: 30px 0;
   height: 550px;
